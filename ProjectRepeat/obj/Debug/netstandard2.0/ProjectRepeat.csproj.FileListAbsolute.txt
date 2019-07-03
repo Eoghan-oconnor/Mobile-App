@@ -1,0 +1,12 @@
+C:\Users\oconn\Desktop\ProjectRepeat\ProjectRepeat\ProjectRepeat\bin\Debug\netstandard2.0\ProjectRepeat.deps.json
+C:\Users\oconn\Desktop\ProjectRepeat\ProjectRepeat\ProjectRepeat\bin\Debug\netstandard2.0\ProjectRepeat.dll
+C:\Users\oconn\Desktop\ProjectRepeat\ProjectRepeat\ProjectRepeat\bin\Debug\netstandard2.0\ProjectRepeat.pdb
+C:\Users\oconn\Desktop\ProjectRepeat\ProjectRepeat\ProjectRepeat\obj\Debug\netstandard2.0\ProjectRepeat.csprojAssemblyReference.cache
+C:\Users\oconn\Desktop\ProjectRepeat\ProjectRepeat\ProjectRepeat\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\oconn\Desktop\ProjectRepeat\ProjectRepeat\ProjectRepeat\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\oconn\Desktop\ProjectRepeat\ProjectRepeat\ProjectRepeat\obj\Debug\netstandard2.0\ProjectRepeat.csproj.CoreCompileInputs.cache
+C:\Users\oconn\Desktop\ProjectRepeat\ProjectRepeat\ProjectRepeat\obj\Debug\netstandard2.0\ProjectRepeat.AssemblyInfoInputs.cache
+C:\Users\oconn\Desktop\ProjectRepeat\ProjectRepeat\ProjectRepeat\obj\Debug\netstandard2.0\ProjectRepeat.AssemblyInfo.cs
+C:\Users\oconn\Desktop\ProjectRepeat\ProjectRepeat\ProjectRepeat\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\oconn\Desktop\ProjectRepeat\ProjectRepeat\ProjectRepeat\obj\Debug\netstandard2.0\ProjectRepeat.dll
+C:\Users\oconn\Desktop\ProjectRepeat\ProjectRepeat\ProjectRepeat\obj\Debug\netstandard2.0\ProjectRepeat.pdb
